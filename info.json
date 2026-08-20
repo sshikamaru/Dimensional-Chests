@@ -1,0 +1,11 @@
+{
+  "name": "Dimensional-Chests",
+  "version": "0.1.1",
+  "title": "Dimensional Chests",
+  "author": "sshika",
+  "contact": "sshika_sshika@outlook.fr",
+  "homepage": "https://github.com/sshikamaru",
+  "description": "Coffres interconnectés partageant un inventaire par réseau et par taille (fonctionne multi-surface).",
+  "factorio_version": "2.0",
+  "dependencies": ["base >= 2.0"]
+}

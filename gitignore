@@ -1,0 +1,19 @@
+# Archives de build du mod (générées, pas à versionner)
+*.zip
+
+# Fichiers temporaires d'éditeurs
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Dossiers d'IDE
+.vscode/
+.idea/
+
+# Logs Factorio (si tu testes en local avec un dossier mods symlinké)
+factorio-current.log
+
+# Fichiers de sauvegarde locaux si jamais tu en gardes dans le repo par erreur
+*.zip.bak
